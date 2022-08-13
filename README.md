@@ -1,7 +1,10 @@
 # Link to front-end react app : 
 https://github.com/youba1993/phase-3-project-frontend
 
-
+## requirments :
+$bundle install
+$bundle exec rake db:migrate db:seed
+$bundle exec rake server
 
 
 # Phase 3 Project Guidelines
