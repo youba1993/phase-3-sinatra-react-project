@@ -2,9 +2,15 @@
 https://github.com/youba1993/phase-3-project-frontend
 
 ## requirments :
-$bundle install
-$bundle exec rake db:migrate db:seed
-$bundle exec rake server
+```console
+$ bundle install
+```
+```console
+$ bundle exec rake db:migrate db:seed
+```
+```console
+$ bundle exec rake server
+```
 
 
 # Phase 3 Project Guidelines
