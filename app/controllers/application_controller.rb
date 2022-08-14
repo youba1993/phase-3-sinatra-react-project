@@ -8,7 +8,7 @@ class ApplicationController < Sinatra::Base
   end
 
   get "/donations" do
-    donations = Donation.all
+    donations = Donation.where('user_id == 1')
     donations.to_json
   end
  
