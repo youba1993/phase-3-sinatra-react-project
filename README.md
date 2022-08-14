@@ -2,6 +2,8 @@
 https://github.com/youba1993/phase-3-project-frontend
 
 ## requirments :
+must clone frontend application
+
 ```console
 $ bundle install
 ```
